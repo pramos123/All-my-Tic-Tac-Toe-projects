@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Minimax_algorithm-1-
+# All my Tic-Tac_Toe projects
 This repository has a collection of all the tic-tac-toe games I've made throughout the past couple months. First you will find a basic game of tictactoe where you can only play in the terminal against no bot, second you will find one with a tkinter module to play with a visible board outside of the terminal, and lastly you will find one that utilizes the Minamax algorith to make an unbeateable bot in tictactoe. 
